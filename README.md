@@ -1,3 +1,3 @@
 # quote-machine-vue
 
-[Demo](https://shikigeru.github.io/Quote-machine-Vue-/)
+[Demo](https://lunyovyuriy.github.io/Quote-machine-Vue-/)
